@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d4d1e73e-7d1a-4874-9978-4177c6a6a182" /><h1 align="center">🔒 Java VPN Client Simulator</h1>
+<h1>🔒 Java VPN Client Simulator</h1>
 
 <p align="center">
 A Java-based VPN Client Application that simulates secure VPN connections with an interactive Swing-based UI.<br>
@@ -68,6 +68,4 @@ java -jar target/vpn-client-simulator.jar
 reenshots </h3>
 <img width="1919" height="1079" alt="Screenshot 2025-08-16 212840" src="https://github.com/user-attachments/assets/9ce620d8-8586-488d-b70a-1e88ab20a0a8" />
 
-
-<p>Add screenshots of your Swing UI here for better presentation:</p>
 
